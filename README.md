@@ -1,7 +1,7 @@
-# 🚖 Smart Ride Hailing System (C++)
+#  Smart Ride Hailing System (C++)
 
 <p align="center">
-  <img src="ride-hailing.png" width="100%">
+  <img src="ride-hailing.png.png" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - Admin Dashboard with Secure Login
 - User Ride Booking System
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C++
 - Object-Oriented Programming (OOP)
@@ -38,13 +38,13 @@
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 This project simulates a real-world ride hailing platform where users can request rides, drivers can manage trips, and fares are calculated dynamically using different pricing strategies.
 
 ---
 
-## 🚀 Concepts Implemented
+##  Concepts Implemented
 
 ✔ Classes & Objects
 
