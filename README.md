@@ -1,31 +1,71 @@
+# 🚖 Smart Ride Hailing System (C++)
 
- Ride Hailing System (C++)
+<p align="center">
+  <img src="ride-hailing.png" width="100%">
+</p>
 
- Overview
-This is a console-based Ride Hailing Application developed in C++ using Object-Oriented Programming concepts.  
-The system simulates real-world ride booking with drivers and users.
-
----
- Features
-- User registration & login
-- Driver availability system
-- Ride booking functionality
-- Vehicle type selection
-- Fare calculation
-- Ride confirmation system
+<p align="center">
+  A Console-Based Ride Hailing Application Developed Using Object-Oriented Programming (OOP) Concepts in C++
+</p>
 
 ---
- Concepts Used
+
+## ✨ Features
+
+- Admin Dashboard with Secure Login
+- User Ride Booking System
+- Driver Management Module
+- Vehicle Selection (Bike, Rickshaw, Car)
+- Dynamic Fare Calculation
+- Surge Pricing Support
+- Carpool Fare Support
+- Driver Earnings Tracking
+- Location-Based Distance Calculation
+- Interactive Console UI
+
+---
+
+## 🛠 Technologies Used
+
+- C++
 - Object-Oriented Programming (OOP)
-- Classes & Objects
-- Inheritance
+- STL (Vector, String)
+- Dynamic Memory Management
 - Polymorphism
-- Vectors & STL
-- File Handling (if used)
+- Inheritance
+- Encapsulation
+- Abstraction
 
 ---
 
-How to Run
+## 🎯 Project Goal
 
-1. Open project in any C++ compiler (Dev C++, VS Code, etc.)
-2. Compile the code:
+This project simulates a real-world ride hailing platform where users can request rides, drivers can manage trips, and fares are calculated dynamically using different pricing strategies.
+
+---
+
+## 🚀 Concepts Implemented
+
+✔ Classes & Objects
+
+✔ Encapsulation
+
+✔ Inheritance
+
+✔ Polymorphism
+
+✔ Abstraction
+
+✔ Constructor Initializer Lists
+
+✔ Pointers & References
+
+✔ Dynamic Memory Management
+
+---
+
+### 💡 Learning Outcome
+
+This project helped me strengthen my understanding of Object-Oriented Programming and how software engineering concepts can be applied to solve real-world problems.
+
+⭐ If you like this project, don't forget to star the repository!
