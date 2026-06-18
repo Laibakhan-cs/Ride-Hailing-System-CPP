@@ -63,6 +63,11 @@ This project simulates a real-world ride hailing platform where users can reques
 ✔ Dynamic Memory Management
 
 ---
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="project-screenshots.png" width="100%">
+</p>
 
 ### 💡 Learning Outcome
 
