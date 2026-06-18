@@ -1,7 +1,7 @@
 #  Smart Ride Hailing System (C++)
 
 <p align="center">
-  <img src="ride-hailing.png.png" width="100%">
+<img src="ride-hailing.png" width="100%">
 </p>
 
 <p align="center">
