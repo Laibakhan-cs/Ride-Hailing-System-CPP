@@ -329,7 +329,7 @@ public:
             return;
         }
         if (status != "Accepted") {
-            cout << "\n Cannot start trip – driver has not accepted yet (current status: " << status << ")\n";
+            cout << "\n Cannot start trip Â– driver has not accepted yet (current status: " << status << ")\n";
             return;
         }
         status = "Ongoing";
